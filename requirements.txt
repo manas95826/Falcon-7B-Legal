@@ -1,0 +1,4 @@
+streamlit
+langchain
+huggingface_hub
+transformers
