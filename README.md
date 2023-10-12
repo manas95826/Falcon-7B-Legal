@@ -92,4 +92,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Special thanks to Hugging Face for providing the pre-trained language model.
 - Inspired by real legal consultation scenarios.
 
-Feel free to customize this README file with your own project details, contact information, and additional acknowledgments.
